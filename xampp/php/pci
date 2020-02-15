@@ -1,4 +1,4 @@
-#!\xampp\php\.\php.exe
+#!\portable\xampp\php\.\php.exe
 <?php
 /**
  * Get the Compatibility info from PHP CLI
