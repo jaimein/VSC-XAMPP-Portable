@@ -1,14 +1,18 @@
 {
     "telemetry.machineId": "fa51c877e4d5c210fcdd9215b48b002ddcd8ec62aa30d3e4c443f58f133d9684",
     "openedPathsList": {
-        "workspaces3": [],
+        "workspaces3": [
+            "file:///c%3A/portable/xampp/htdocs/ejemplo_depuracion",
+            "file:///c%3A/Users/jaime/OneDrive/Documentos"
+        ],
         "files2": []
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "c:\\portable\\vsc\\data\\user-data\\Backups\\1581757189237",
+            "folder": "file:///c%3A/portable/xampp/htdocs/ejemplo_depuracion",
+            "backupPath": "c:\\portable\\vsc\\data\\user-data\\Backups\\ef01e82acbeefe592659e25e20f0dbd8",
             "uiState": {
                 "mode": 1,
                 "x": 125,
@@ -18,5 +22,6 @@
             }
         },
         "openedWindows": []
-    }
+    },
+    "pickerWorkingDir": "C:\\portable\\xampp\\htdocs"
 }

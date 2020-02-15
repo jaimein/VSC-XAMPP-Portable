@@ -1,0 +1,20 @@
+Xdebug could not open the remote debug file 'c:\tmp\xdebug\xd
+ebug.log'.
+
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+
+DEBUG     The xdebug extension is loaded (2.9.1)
+
+DEBUG     Process restarting (PHPLS_ALLOW_XDEBUG=internal|2.9.1|0|*|*)
+DEBUG     Running C:\xampp\php\php.exe -n -c C:\Users\jaime\AppData\Local\Temp\FCE5.tmp c:\portable\vsc\data\extensions\felixfbecker.php-intellisense-2.3.14\vendor\felixfbecker\language-server\bin\php-language-server.php --tcp=127.0.0.1:55082 --memory-limit=4095M
+
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     Restarted (73 ms). The xdebug extension is not loaded
+
+[Info  - 10:16:48] 1 files total
+[Info  - 10:16:48] Indexing project for definitions and static references
+Parsing file:///c:/portable/xampp/htdocs/ejemplo_depuracion/index.php
+[Info  - 10:16:48] Indexing project for dynamic references
+Parsing file:///c:/portable/xampp/htdocs/ejemplo_depuracion/index.php
+[Info  - 10:16:48] 0 Packages
+[Info  - 10:16:48] All 1 PHP files parsed in 0 seconds. 148 MiB allocated.

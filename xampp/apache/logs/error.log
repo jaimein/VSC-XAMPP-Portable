@@ -1,0 +1,65 @@
+[Sat Feb 15 10:13:29.152291 2020] [ssl:warn] [pid 15716:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:13:29.192352 2020] [ssl:warn] [pid 15716:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension '\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll' (tried: \\portable\\xampp\\php\\ext\\\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll (No se puede encontrar el m\xf3dulo especificado.), \\portable\\xampp\\php\\ext\\php_\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll.dll (No se puede encontrar el m\xf3dulo especificado.)) in Unknown on line 0
+[Sat Feb 15 10:13:29.452342 2020] [mpm_winnt:notice] [pid 15716:tid 608] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.14 configured -- resuming normal operations
+[Sat Feb 15 10:13:29.452342 2020] [mpm_winnt:notice] [pid 15716:tid 608] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Feb 15 10:13:29.452342 2020] [core:notice] [pid 15716:tid 608] AH00094: Command line: 'c:\\portable\\xampp\\apache\\bin\\httpd.exe -d C:/portable/xampp/apache'
+[Sat Feb 15 10:13:29.452342 2020] [mpm_winnt:notice] [pid 15716:tid 608] AH00418: Parent: Created child process 24828
+[Sat Feb 15 10:13:29.792531 2020] [ssl:warn] [pid 24828:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:13:29.822023 2020] [ssl:warn] [pid 24828:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension '\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll' (tried: \\portable\\xampp\\php\\ext\\\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll (No se puede encontrar el m\xf3dulo especificado.), \\portable\\xampp\\php\\ext\\php_\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll.dll (No se puede encontrar el m\xf3dulo especificado.)) in Unknown on line 0
+[Sat Feb 15 10:13:29.852266 2020] [mpm_winnt:notice] [pid 24828:tid 644] AH00354: Child: Starting 150 worker threads.
+[Sat Feb 15 10:18:02.802009 2020] [mpm_winnt:crit] [pid 24828:tid 644] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 15 10:19:00.727218 2020] [ssl:warn] [pid 26880:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:19:00.761970 2020] [core:warn] [pid 26880:tid 616] AH00098: pid file C:/portable/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 10:19:00.761970 2020] [ssl:warn] [pid 26880:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension '\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll' (tried: \\portable\\xampp\\php\\ext\\\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll (No se puede encontrar el m\xf3dulo especificado.), \\portable\\xampp\\php\\ext\\php_\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll.dll (No se puede encontrar el m\xf3dulo especificado.)) in Unknown on line 0
+[Sat Feb 15 10:19:00.791779 2020] [mpm_winnt:notice] [pid 26880:tid 616] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.14 configured -- resuming normal operations
+[Sat Feb 15 10:19:00.791779 2020] [mpm_winnt:notice] [pid 26880:tid 616] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Feb 15 10:19:00.791779 2020] [core:notice] [pid 26880:tid 616] AH00094: Command line: 'c:\\portable\\xampp\\apache\\bin\\httpd.exe -d C:/portable/xampp/apache'
+[Sat Feb 15 10:19:00.791779 2020] [mpm_winnt:notice] [pid 26880:tid 616] AH00418: Parent: Created child process 16620
+[Sat Feb 15 10:19:01.261660 2020] [ssl:warn] [pid 16620:tid 700] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:19:01.291480 2020] [ssl:warn] [pid 16620:tid 700] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension '\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll' (tried: \\portable\\xampp\\php\\ext\\\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll (No se puede encontrar el m\xf3dulo especificado.), \\portable\\xampp\\php\\ext\\php_\\portable\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll.dll (No se puede encontrar el m\xf3dulo especificado.)) in Unknown on line 0
+[Sat Feb 15 10:19:01.321806 2020] [mpm_winnt:notice] [pid 16620:tid 700] AH00354: Child: Starting 150 worker threads.
+[Sat Feb 15 10:19:51.521715 2020] [mpm_winnt:crit] [pid 16620:tid 700] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 15 10:19:53.156753 2020] [ssl:warn] [pid 2516:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:19:53.201807 2020] [core:warn] [pid 2516:tid 660] AH00098: pid file C:/portable/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 10:19:53.201807 2020] [ssl:warn] [pid 2516:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension '\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll' (tried: \\portable\\xampp\\php\\ext\\\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll (No se puede encontrar el m\xf3dulo especificado.), \\portable\\xampp\\php\\ext\\php_\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll.dll (No se puede encontrar el m\xf3dulo especificado.)) in Unknown on line 0
+[Sat Feb 15 10:19:53.231547 2020] [mpm_winnt:notice] [pid 2516:tid 660] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.14 configured -- resuming normal operations
+[Sat Feb 15 10:19:53.231547 2020] [mpm_winnt:notice] [pid 2516:tid 660] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Feb 15 10:19:53.231547 2020] [core:notice] [pid 2516:tid 660] AH00094: Command line: 'c:\\portable\\xampp\\apache\\bin\\httpd.exe -d C:/portable/xampp/apache'
+[Sat Feb 15 10:19:53.231547 2020] [mpm_winnt:notice] [pid 2516:tid 660] AH00418: Parent: Created child process 3908
+[Sat Feb 15 10:19:53.701799 2020] [ssl:warn] [pid 3908:tid 712] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:19:53.741480 2020] [ssl:warn] [pid 3908:tid 712] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension '\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll' (tried: \\portable\\xampp\\php\\ext\\\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll (No se puede encontrar el m\xf3dulo especificado.), \\portable\\xampp\\php\\ext\\php_\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll.dll (No se puede encontrar el m\xf3dulo especificado.)) in Unknown on line 0
+[Sat Feb 15 10:19:53.771579 2020] [mpm_winnt:notice] [pid 3908:tid 712] AH00354: Child: Starting 150 worker threads.
+[Sat Feb 15 10:22:42.731366 2020] [mpm_winnt:crit] [pid 3908:tid 712] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 15 10:22:45.651113 2020] [ssl:warn] [pid 16100:tid 696] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:22:45.691679 2020] [core:warn] [pid 16100:tid 696] AH00098: pid file C:/portable/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 10:22:45.691679 2020] [ssl:warn] [pid 16100:tid 696] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension '\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll' (tried: \\portable\\xampp\\php\\ext\\\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll (No se puede encontrar el m\xf3dulo especificado.), \\portable\\xampp\\php\\ext\\php_\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll.dll (No se puede encontrar el m\xf3dulo especificado.)) in Unknown on line 0
+[Sat Feb 15 10:22:45.716204 2020] [mpm_winnt:notice] [pid 16100:tid 696] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.14 configured -- resuming normal operations
+[Sat Feb 15 10:22:45.716204 2020] [mpm_winnt:notice] [pid 16100:tid 696] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Feb 15 10:22:45.716204 2020] [core:notice] [pid 16100:tid 696] AH00094: Command line: 'c:\\portable\\xampp\\apache\\bin\\httpd.exe -d C:/portable/xampp/apache'
+[Sat Feb 15 10:22:45.721245 2020] [mpm_winnt:notice] [pid 16100:tid 696] AH00418: Parent: Created child process 23760
+[Sat Feb 15 10:22:46.171474 2020] [ssl:warn] [pid 23760:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:22:46.201253 2020] [ssl:warn] [pid 23760:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension '\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll' (tried: \\portable\\xampp\\php\\ext\\\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll (No se puede encontrar el m\xf3dulo especificado.), \\portable\\xampp\\php\\ext\\php_\\portable\\xampp\\php\\ext\\php_xdebug-2.9.2-7.3-vc15-x86_64.dll.dll (No se puede encontrar el m\xf3dulo especificado.)) in Unknown on line 0
+[Sat Feb 15 10:22:46.231132 2020] [mpm_winnt:notice] [pid 23760:tid 672] AH00354: Child: Starting 150 worker threads.
+[Sat Feb 15 10:23:18.651043 2020] [mpm_winnt:crit] [pid 23760:tid 672] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 15 10:23:19.957021 2020] [ssl:warn] [pid 24084:tid 136] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:23:19.991460 2020] [core:warn] [pid 24084:tid 136] AH00098: pid file C:/portable/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 10:23:20.001324 2020] [ssl:warn] [pid 24084:tid 136] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:23:20.041442 2020] [mpm_winnt:notice] [pid 24084:tid 136] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.14 configured -- resuming normal operations
+[Sat Feb 15 10:23:20.041442 2020] [mpm_winnt:notice] [pid 24084:tid 136] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Feb 15 10:23:20.041442 2020] [core:notice] [pid 24084:tid 136] AH00094: Command line: 'c:\\portable\\xampp\\apache\\bin\\httpd.exe -d C:/portable/xampp/apache'
+[Sat Feb 15 10:23:20.041442 2020] [mpm_winnt:notice] [pid 24084:tid 136] AH00418: Parent: Created child process 25972
+[Sat Feb 15 10:23:20.421407 2020] [ssl:warn] [pid 25972:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:23:20.451052 2020] [ssl:warn] [pid 25972:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 15 10:23:20.481172 2020] [mpm_winnt:notice] [pid 25972:tid 604] AH00354: Child: Starting 150 worker threads.
+[Sat Feb 15 10:23:23.941163 2020] [php7:notice] [pid 25972:tid 1900] [client ::1:55144] Xdebug could not open the remote debug file 'c:\\tmp\\xdebug\\xdebug.log'., referer: http://localhost/dashboard/
+[Sat Feb 15 10:23:27.971365 2020] [php7:notice] [pid 25972:tid 1900] [client ::1:55147] Xdebug could not open the remote debug file 'c:\\tmp\\xdebug\\xdebug.log'., referer: http://localhost/dashboard/
+[Sat Feb 15 10:25:28.520866 2020] [php7:notice] [pid 25972:tid 1900] [client ::1:55153] Xdebug could not open the remote debug file 'c:\\tmp\\xdebug\\xdebug.log'., referer: http://localhost/
+[Sat Feb 15 10:26:15.390775 2020] [mpm_winnt:crit] [pid 25972:tid 604] AH02538: Child: Parent process exited abruptly. Child process is ending
